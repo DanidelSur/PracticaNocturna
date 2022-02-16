@@ -7,4 +7,7 @@ iniciar git--- en proceso
   fallo
 
   nuevo intento
-  estado de git : en proceso
+  estado de git : completado  
+  
+  Modificar y clonar
+  estado: enprogreso
