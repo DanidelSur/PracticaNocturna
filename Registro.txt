@@ -1,0 +1,10 @@
+Armar html--- listo
+iniciar git--- en proceso
+  fallo
+  se creo nueva rama para lidiar la falla
+
+  estado de git: e n p r o g r e s o
+  fallo
+
+  nuevo intento
+  estado de git : en proceso
